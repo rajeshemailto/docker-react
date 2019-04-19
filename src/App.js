@@ -19,7 +19,7 @@ class App extends Component {
             rel="noopener noreferrer"
           >
             Learn React
-          </a> so to change!
+          </a> again---- >>>  so to change for new feature!
         </header>
       </div>
     );
